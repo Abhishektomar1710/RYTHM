@@ -1,0 +1,30 @@
+.Home{
+    text-align: center;
+    background-color: beige;
+}
+
+.Home-h1{
+    z-index: 0;
+    display: flex;
+}
+.Dashboard{
+    background-color: #F8F4F1;
+}
+.Login{
+    background-color: #F8F4F1;
+}
+
+.adminDashboard-navbar-nav{
+    /* margin-left: 25%; */
+    align-items: center;
+}
+.Footer{
+    align-items: center;
+}
+.Logo{
+    justify-content: center;
+    margin-left: 4%;
+    margin-top: 0%;
+    width: 10%;
+    z-index: 0;
+  }
